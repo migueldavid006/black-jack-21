@@ -1,0 +1,32 @@
+html, body {
+    margin: 0px;
+    background-image:url("https://elcomercio.pe/resizer/52Eur4YelKCtQNPOodPfCDnAemw=/580x330/smart/filters:format(jpeg):quality(75)/arc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com/public/277WEJWCQJBHPMGRM355KBGRYM.jpg");
+    color: white;
+    opacity: 0.9;
+    background-repeat:no-repeat ;
+    background-position:center ;
+}
+
+
+.titulo {
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 20px;
+    font-size: 25px;
+}
+
+.carta {
+    position: relative;
+    width: 150px;
+    left: 100px;
+    margin-left: -75px;
+}
+
+#computadora-cartas, #jugador-cartas {
+    height: 240px;
+}
+
+h1{
+    color: black;
+}
